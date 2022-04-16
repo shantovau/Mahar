@@ -13,10 +13,10 @@ python3 -m pip install --upgrade pip
 pip install requests
 pip install mechanize
 pip install future
-rm -rf Mahar
-git clone https://github.com/Qadirking/Mahar.git
+rm -rf shanto
+git clone https://github.com/shantoxyz/shanto.git
 cd Mahar
-python Qadir.py
+python shanto.py
 
 ```
  
